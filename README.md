@@ -7,8 +7,9 @@
 ## Results
 - Population Changes Animation
   - Pivot Table + Data Blending
+    - Before Pivot
     <img width="1624" alt="Before Pivot" src="https://user-images.githubusercontent.com/105877888/222944848-db92df6d-3009-409e-9846-2ce13f450aee.png">
-
+    - After Pivot
     <img width="1624" alt="After Pivot" src="https://user-images.githubusercontent.com/105877888/222944851-d4a6876e-e54f-4512-a721-945df6f51954.png">
 
   - Animation of Population Changes over the year
